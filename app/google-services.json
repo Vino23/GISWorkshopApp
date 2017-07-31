@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521609656305",
+    "firebase_url": "https://carworkshopfinder-6cfa1.firebaseio.com",
+    "project_id": "carworkshopfinder-6cfa1",
+    "storage_bucket": "carworkshopfinder-6cfa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521609656305:android:0010a1a2bde9def1",
+        "android_client_info": {
+          "package_name": "jp.carworkshoplocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521609656305-v3rp6nbbq76qslmsu8jnbqq63mmu81rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE3eAd_PABZvDIaDgfrPlD0Mak2wiU1lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

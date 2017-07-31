@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/one"
+        android:title="Repair Services"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="Vulcanizing"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="Battery Delivery Services"/>
+
+    <item
+        android:id="@+id/four"
+        android:title="Towing Services"/>
+
+    <item
+        android:id="@+id/five"
+        android:title="Police Station"/>
+
+    <item
+        android:id="@+id/six"
+        android:title="Fire Station"/>
+
+</menu>
